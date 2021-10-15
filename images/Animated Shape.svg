@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1440" height="560" preserveAspectRatio="none" viewBox="0 0 1440 560"><g mask="url(&quot;#SvgjsMask1587&quot;)" fill="none"><rect width="1440" height="560" x="0" y="0" fill="url(#SvgjsLinearGradient1588)"></rect><path d="M243.75,431.688C303.011,431.633,354.835,390.878,380.144,337.293C402.367,290.242,381.049,239.342,356.188,193.63C329.679,144.889,299.216,87.87,243.75,86.508C186.984,85.114,148.497,138.004,121.321,187.862C95.609,235.034,82.81,289.535,106.917,337.547C133.543,390.576,184.412,431.743,243.75,431.688" fill="rgba(28, 83, 142, 0.4)" class="triangle-float2"></path><path d="M181.254,414.757C220.202,413.545,257.438,396.16,276.954,362.432C296.502,328.65,293.233,287.575,274.732,253.209C255.101,216.744,222.628,182.859,181.254,184.664C141.749,186.387,120.726,226.574,100.908,260.792C81.018,295.134,56.291,333.542,74.651,368.726C93.843,405.504,139.79,416.047,181.254,414.757" fill="rgba(28, 83, 142, 0.4)" class="triangle-float1"></path><path d="M1042.1921255861298 120.27658016173757L1115.1803375910138 269.9245916253554 1264.8283490546316 196.93637962047146 1191.8401370497477 47.288368156853636z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float3"></path><path d="M-29.52 277.54 a126.96 126.96 0 1 0 253.92 0 a126.96 126.96 0 1 0 -253.92 0z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float2"></path><path d="M1160.5225825097052 481.03985828962766L1085.1256954623032 410.7311236701079 1014.8169608427833 486.12801071751005 1090.2138478901854 556.4367453370298z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float2"></path><path d="M881.44 107.1 a116.89 116.89 0 1 0 233.78 0 a116.89 116.89 0 1 0 -233.78 0z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float3"></path><path d="M762.4346839751399 188.3751020616135L681.7722882118545 284.5048019997649 777.9019881500059 365.16719776305024 858.5643839132913 269.0374978248989z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float1"></path><path d="M1142.116042195881 342.3346949730344L1264.6675289603654 445.1676023173406 1367.5004363046717 322.6161155528562 1244.9489495401872 219.78320820854995z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float2"></path><path d="M1229.3619679402786 210.58979390082496L1134.0343803333485 96.98279889692662 1020.4273853294501 192.31038650385685 1115.7549729363802 305.9173815077552z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float2"></path><path d="M724.15 461.42 a103.65 103.65 0 1 0 207.3 0 a103.65 103.65 0 1 0 -207.3 0z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float1"></path><path d="M707.5 460.32 a185.59 185.59 0 1 0 371.18 0 a185.59 185.59 0 1 0 -371.18 0z" fill="rgba(28, 83, 142, 0.4)" class="triangle-float3"></path></g><defs><mask id="SvgjsMask1587"><rect width="1440" height="560" fill="#ffffff"></rect></mask><linearGradient x1="15.28%" y1="-39.29%" x2="84.72%" y2="139.29%" gradientUnits="userSpaceOnUse" id="SvgjsLinearGradient1588"><stop stop-color="rgba(62, 138, 197, 1)" offset="0.34"></stop><stop stop-color="rgba(132, 63, 163, 1)" offset="0.82"></stop></linearGradient><style>
+            @keyframes float1 {
+                0%{transform: translate(0, 0)}
+                50%{transform: translate(-10px, 0)}
+                100%{transform: translate(0, 0)}
+            }
+
+            .triangle-float1 {
+                animation: float1 5s infinite;
+            }
+
+            @keyframes float2 {
+                0%{transform: translate(0, 0)}
+                50%{transform: translate(-5px, -5px)}
+                100%{transform: translate(0, 0)}
+            }
+
+            .triangle-float2 {
+                animation: float2 4s infinite;
+            }
+
+            @keyframes float3 {
+                0%{transform: translate(0, 0)}
+                50%{transform: translate(0, -10px)}
+                100%{transform: translate(0, 0)}
+            }
+
+            .triangle-float3 {
+                animation: float3 6s infinite;
+            }
+        </style></defs></svg>

@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: "BKoodak";
+  src: url("../fonts/BKoodakBold.eot");
+  src: url("../fonts/BKoodakBold.ttf");
+  src: url("../fonts/BKoodakBold.woff");
+}
+@mixin parallax($url,$pos1,$pos2,$repeat,$fixed,$cover){
+  background: $url $pos1 $pos2 $repeat $fixed;
+  background-size: $cover;
+}
